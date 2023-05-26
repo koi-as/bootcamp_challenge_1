@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the first challenge of the GaTech Full Stack coding bootcamp. The goal is to refactor the existing code so that it follows the accessibility standards. Here is a link to the deployed wedpage: https://koi-as.github.io/bootcamp_challenge_1/
+This is the first challenge of the GaTech Full Stack coding bootcamp. The goal is to refactor the existing code so that it follows the accessibility standards. Here is a link to the deployed wedpage: https://koi-as.github.io/marketing-page-refactor/
 
 ## Installation
 
